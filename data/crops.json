@@ -1,0 +1,119 @@
+{
+  "crops": [
+    {
+      "id": 1,
+      "name": "Rice",
+      "scientificName": "Oryza sativa",
+      "season": "Kharif",
+      "soilType": "Clay loam, sandy loam",
+      "climate": "Warm and humid",
+      "temperature": "20-35°C",
+      "rainfall": "100-200 cm",
+      "duration": "120-150 days",
+      "yield": "4-6 tons per hectare",
+      "cultivation": [
+        "Prepare the field by ploughing 2-3 times",
+        "Apply farmyard manure 10-12 tons per hectare",
+        "Transplant seedlings at 20x15 cm spacing",
+        "Maintain 5-10 cm water level",
+        "Apply fertilizers: N:P:K = 120:60:40 kg/ha",
+        "Weed control after 20-25 days"
+      ],
+      "pests": ["Stem borer", "Leaf folder", "Brown plant hopper"],
+      "diseases": ["Blast", "Bacterial leaf blight", "Sheath blight"],
+      "harvesting": "When 80% of grains turn golden yellow"
+    },
+    {
+      "id": 2,
+      "name": "Wheat",
+      "scientificName": "Triticum aestivum",
+      "season": "Rabi",
+      "soilType": "Well-drained loam soil",
+      "climate": "Cool and dry",
+      "temperature": "10-25°C",
+      "rainfall": "50-75 cm",
+      "duration": "120-140 days",
+      "yield": "3-4 tons per hectare",
+      "cultivation": [
+        "Deep ploughing before sowing",
+        "Seed rate: 100-125 kg per hectare",
+        "Sowing depth: 5-6 cm",
+        "Row spacing: 20-23 cm",
+        "Apply fertilizers: N:P:K = 120:60:40 kg/ha",
+        "First irrigation 20-25 days after sowing"
+      ],
+      "pests": ["Aphids", "Termites", "Army worm"],
+      "diseases": ["Rust", "Karnal bunt", "Powdery mildew"],
+      "harvesting": "When grain moisture content is 20-25%"
+    },
+    {
+      "id": 3,
+      "name": "Tomato",
+      "scientificName": "Solanum lycopersicum",
+      "season": "Year-round with irrigation",
+      "soilType": "Well-drained sandy loam",
+      "climate": "Warm",
+      "temperature": "20-30°C",
+      "rainfall": "60-150 cm",
+      "duration": "90-120 days",
+      "yield": "20-25 tons per hectare",
+      "cultivation": [
+        "Raise seedlings in nursery",
+        "Transplant after 25-30 days",
+        "Plant spacing: 60x45 cm",
+        "Apply farmyard manure 20-25 tons per hectare",
+        "Staking and pruning required",
+        "Regular irrigation every 5-7 days"
+      ],
+      "pests": ["Fruit borer", "Whitefly", "Leaf miner"],
+      "diseases": ["Early blight", "Late blight", "Tomato mosaic virus"],
+      "harvesting": "When fruits reach full size and show color"
+    },
+    {
+      "id": 4,
+      "name": "Cotton",
+      "scientificName": "Gossypium",
+      "season": "Kharif",
+      "soilType": "Black cotton soil",
+      "climate": "Warm and humid",
+      "temperature": "21-30°C",
+      "rainfall": "50-100 cm",
+      "duration": "180-210 days",
+      "yield": "1.5-2 tons per hectare",
+      "cultivation": [
+        "Deep summer ploughing",
+        "Seed rate: 12-15 kg per hectare",
+        "Row spacing: 60-90 cm, plant spacing: 30-45 cm",
+        "Apply fertilizers: N:P:K = 120:60:60 kg/ha",
+        "Thinning after 15-20 days",
+        "Regular weeding and pest monitoring"
+      ],
+      "pests": ["Bollworm", "Whitefly", "Aphids"],
+      "diseases": ["Wilt", "Leaf curl", "Blight"],
+      "harvesting": "Multiple pickings when bolls burst open"
+    },
+    {
+      "id": 5,
+      "name": "Sugarcane",
+      "scientificName": "Saccharum officinarum",
+      "season": "Year-round",
+      "soilType": "Deep, fertile loam",
+      "climate": "Tropical and subtropical",
+      "temperature": "20-35°C",
+      "rainfall": "100-150 cm",
+      "duration": "12-18 months",
+      "yield": "70-100 tons per hectare",
+      "cultivation": [
+        "Use healthy seed cane",
+        "Planting: Two budded setts in furrows",
+        "Row spacing: 75-90 cm",
+        "Apply farmyard manure 25 tons per hectare",
+        "Earthing up after 90-120 days",
+        "Irrigation every 7-10 days"
+      ],
+      "pests": ["Early shoot borer", "Top borer", "White grub"],
+      "diseases": ["Red rot", "Wilt", "Smut"],
+      "harvesting": "When sugar content reaches 18-20%"
+    }
+  ]
+}

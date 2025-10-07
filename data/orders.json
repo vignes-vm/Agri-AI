@@ -1,0 +1,39 @@
+{
+  "orders": [
+    {
+      "orderId": "ORD001",
+      "userId": "USER123",
+      "productName": "Organic Fertilizer NPK 19:19:19",
+      "quantity": "50 kg",
+      "price": 1500,
+      "status": "Delivered",
+      "orderDate": "2024-10-01",
+      "deliveryDate": "2024-10-05"
+    },
+    {
+      "orderId": "ORD002",
+      "userId": "USER124",
+      "productName": "Pesticide - Imidacloprid",
+      "quantity": "1 liter",
+      "price": 450,
+      "status": "In Transit",
+      "orderDate": "2024-10-03",
+      "expectedDelivery": "2024-10-08"
+    },
+    {
+      "orderId": "ORD003",
+      "userId": "USER125",
+      "productName": "Hybrid Tomato Seeds",
+      "quantity": "500 grams",
+      "price": 800,
+      "status": "Processing",
+      "orderDate": "2024-10-05"
+    }
+  ],
+  "orderStatuses": {
+    "Processing": "Your order is being prepared",
+    "In Transit": "Your order is on the way",
+    "Delivered": "Your order has been delivered",
+    "Cancelled": "Your order has been cancelled"
+  }
+}
