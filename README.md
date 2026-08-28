@@ -246,6 +246,3 @@ Farmers and agri-app users need fast, reliable answers to everyday farming quest
 - **Bundling unused data files (`products.csv`) invites drift** between what's documented as "included" and what the API actually serves — either wire it into an endpoint or drop it from the bundled data.
 - **A simple keyword-based intent classifier + static knowledge base is a pragmatic, low-cost way to ground an LLM** without standing up embeddings/vector search — a reasonable MVP choice, with a clear upgrade path to real retrieval if the knowledge base grows.
 
-## License
-
-Add your preferred license here (for example, MIT).
